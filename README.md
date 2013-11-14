@@ -1,12 +1,13 @@
 android-LocaitonDemo
 ====================
-This application shows how to program you application to show the current location of the mobile. This generally uses the longitude and the latitude of accesses from the GPS or from the Network. You need to add few permissions in the manifest file and write a class to use the functions of LocationListener class.
-
-There are few steps to do this :
-Step 1 : Give the permission in the android manifest file.
-Step 2 : Create the main class to handle the operation for button , when clicked.
-Step 3 : Create a class extending from the Service class and implement LocationListener.
-
+<br/>This application shows how to program you application to show the current location of the mobile. This generally uses the longitude and the latitude of accesses from the GPS or from the Network. You need to add few permissions in the manifest file and write a class to use the functions of LocationListener class.
+<br/>
+<br/>There are few steps to do this :
+<br/>Step 1 : Give the permission in the android manifest file.
+<br/>Step 2 : Create the main class to handle the operation for button , when clicked.
+<br/>Step 3 : Create a class extending from the Service class and implement LocationListener.
+<br/>
+<br/>
 ____________________________________________________________________________________________________________________________________________
 Step 1 : Give the permission in the android manifest file.
 
